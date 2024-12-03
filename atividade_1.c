@@ -31,7 +31,7 @@ int main()
 
     else
     {
-        printf("Número Inválido, digite um número entre 100 e 999.\n");
+        printf("Número Inválido, digite um número entre 100 e 999!\n");
     }
 
 return 0;
